@@ -20,13 +20,13 @@
 &nbsp; 
 ## Results
 ### Paid (Vine) Reviews vs Unpaid Reviews
-* #### 
+* #### ![](https://github.com/ethiry99/HW16_Amazon_Vine_Analysis/blob/main/Resources/Images/AllReviews.png)
 &nbsp; 
 ### Paid (Vine) 5 Star Reviews vs Unpaid 5 Star Reviews  
-* #### 
+* #### ![](https://github.com/ethiry99/HW16_Amazon_Vine_Analysis/blob/main/Resources/Images/FiveStarReviews.png)
 &nbsp; 
 ### Percent Paid (Vine) 5 Star Reviews vs Percent Unpaid 5 Star Reviews 
-* #### 
+* #### ![](https://github.com/ethiry99/HW16_Amazon_Vine_Analysis/blob/main/Resources/Images/PercentFiveStarReviews.png)
 &nbsp; 
 ## Summary
 ### No Bias Measured
