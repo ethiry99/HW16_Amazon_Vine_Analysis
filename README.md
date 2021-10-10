@@ -30,5 +30,4 @@
 &nbsp; 
 ## Summary
 ### No Bias Measured
-#### With the unpaid reviews having a....
-
+#### With the unpaid reviews having a higher percentage of 5 Star reviews 46% vs 49% it cannot be said there is a bias present in the Vine Review program.
